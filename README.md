@@ -1,4 +1,4 @@
-# VoltX — Refactored Source
+# VoltX
 
 A structured static front-end prototype for the VoltX citizen and government scheme experience, with the supplied Rashtriya Jan Kalyan Yojana logo used consistently throughout the UI.
 
